@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gyane</h1>
-<h3 align="center">A passionat developer from Nepal</h3>
+<h3 align="center">A passionate developer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyane-git&label=Profile%20views&color=0e75b6&style=flat" alt="gyane-git" /> </p>
 
