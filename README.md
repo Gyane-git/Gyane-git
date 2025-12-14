@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Image Classification**
 
-- 👨‍💻 All of my projects are available at [gyanendrasah.com.np](gyanendrasah.com.np)
+- 👨‍💻 All of my projects are available at [gyanendrasah.com.np]()
 
 - 💬 Ask me about **Nextjs, Python, Vercel**
 
