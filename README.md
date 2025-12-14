@@ -30,13 +30,13 @@
 ## 💻 My Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-90%25-blue?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-85%25-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-90%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-85%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-80%25-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-75%25-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-70%25-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-25-blue?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-25-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-25-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-25-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-25-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
 
 ---
@@ -84,10 +84,10 @@
     <img src="https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=netlify" />
   </a>
   <a href="https://dellnepal.com" target="_blank">
-    <img src="https://img.shields.io/badge/Garg%20Dental-eCom-blue?style=for-the-badge&logo=shopify" />
+    <img src="https://img.shields.io/badge/Delli%20Nepal-blue?style=for-the-badge&logo=shopify" />
   </a>
   <a href="https://deepmasala.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=netlify" />
+    <img src="https://img.shields.io/badge/Deep-Masala-green?style=for-the-badge&logo=netlify" />
   </a>
 </p>
 
