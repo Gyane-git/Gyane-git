@@ -1,17 +1,15 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:blue,100:cyan&height=150&section=header&text=Hi%20I'm%20Gyane👋&fontSize=50&animation=fadeIn" />
-</p>
-
+<h1 align="center">Hi 👋, I'm Gyane</h1>
 <h3 align="center">
-  A passionate Fullstack Developer from Nepal 🚀
+  A passionate developer from Nepal 🚀
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0e75b6&center=true&width=500&lines=Flutter+Developer;Next.js+Enthusiast;AI+Hacker;Open+Source+Contributor" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0e75b6&center=true&width=500&lines=Flutter+Developer;Next.js+Developer;Python+Programmer;ML|Dev+Ops" alt="Typing SVG"/>
 </p>
 
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gyane-git&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=gyane-git&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -32,13 +30,13 @@
 ## 💻 My Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-90%25-blue?style=for-the-badge&logo=dart&logoColor=white&animation=glitch" />
-  <img src="https://img.shields.io/badge/Next.js-85%25-black?style=for-the-badge&logo=next.js&logoColor=white&animation=glitch" />
-  <img src="https://img.shields.io/badge/Python-90%25-3776AB?style=for-the-badge&logo=python&logoColor=white&animation=glitch" />
-  <img src="https://img.shields.io/badge/JavaScript-85%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&animation=glitch" />
-  <img src="https://img.shields.io/badge/Node.js-80%25-339933?style=for-the-badge&logo=node.js&logoColor=white&animation=glitch" />
-  <img src="https://img.shields.io/badge/Django-75%25-092E20?style=for-the-badge&logo=django&logoColor=white&animation=glitch" />
-  <img src="https://img.shields.io/badge/Laravel-70%25-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&animation=glitch" />
+  <img src="https://img.shields.io/badge/Flutter-90%25-blue?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-85%25-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-90%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-85%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-80%25-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-75%25-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-70%25-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
 
 ---
@@ -46,41 +44,44 @@
 ## 🛠 Tools & Technologies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&animation=fade" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&animation=fade" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&animation=fade" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&animation=fade" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&animation=fade" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&animation=fade" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&animation=fade" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&animation=fade" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&animation=fade" />
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" /></a>
+  <a href="https://azure.microsoft.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" /></a>
+  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" /></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" /></a>
+  <a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40" /></a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gyane-git&show_icons=true&count_private=true&theme=radical&hide_title=true&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyane-git&layout=compact&theme=radical&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gyane-git&show_icons=true&count_private=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyane-git&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gyane-git&theme=radical" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=gyane-git&theme=react-dark&area=true" />
 </p>
 
 ---
 
-## 💼 Projects Showcase
+## 💼 My Projects
 
 <p align="center">
   <a href="https://dentalnepal.com" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:blue,100:cyan&height=60&section=badge&text=Garg%20Dental&eCom&fontSize=18" />
+    <img src="https://img.shields.io/badge/Garg%20Dental-eCom-blue?style=for-the-badge&logo=shopify" />
   </a>
   <a href="https://gyanendrasah.com.np" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:green,100:teal&height=60&section=badge&text=Portfolio&fontSize=18" />
+    <img src="https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=netlify" />
   </a>
 </p>
 
@@ -89,9 +90,9 @@
 ## 🌱 Currently Learning
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-90%25-blue?style=for-the-badge&logo=dart&logoColor=white&animation=glitch" />
-  <img src="https://img.shields.io/badge/Next.js-85%25-black?style=for-the-badge&logo=next.js&logoColor=white&animation=glitch" />
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-70%25-orange?style=for-the-badge&logo=python&logoColor=white&animation=glitch" />
+  <img src="https://img.shields.io/badge/Flutter-90%25-blue?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-85%25-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20&%20ML-70%25-orange?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
@@ -103,10 +104,4 @@
   <a href="https://twitter.com/gyane-git"><img src="https://img.shields.io/badge/Twitter-Profile-1DA1F2?style=for-the-badge&logo=twitter" /></a>
   <a href="https://www.buymeacoffee.com/gyane-git"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FF813F?style=for-the-badge&logo=buy-me-a-coffee" /></a>
   <a href="mailto:gyanee750@gmail.com"><img src="https://img.shields.io/badge/Email-gyanee750@gmail.com-c14438?style=for-the-badge&logo=gmail" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=gyane-git.gyane-git" alt="Visitor Count" />
 </p>
