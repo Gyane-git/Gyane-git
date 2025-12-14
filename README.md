@@ -108,6 +108,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/gyane-git"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://twitter.com/gyane-git"><img src="https://img.shields.io/badge/Twitter-Profile-1DA1F2?style=for-the-badge&logo=twitter" /></a>
-  <a href="https://www.buymeacoffee.com/gyane-git"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FF813F?style=for-the-badge&logo=buy-me-a-coffee" /></a>
+  <a href="https://www.buymeacoffee.com/gyane21"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FF813F?style=for-the-badge&logo=buy-me-a-coffee" /></a>
   <a href="mailto:gyanee750@gmail.com"><img src="https://img.shields.io/badge/Email-gyanee750@gmail.com-c14438?style=for-the-badge&logo=gmail" /></a>
 </p>
