@@ -30,13 +30,13 @@
 ## 💻 My Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-25-blue?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-25-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-25-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-25-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-25-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-F-blue?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-Nj-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-P-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-Js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-Nj-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-D-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-L-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
 
 ---
@@ -96,9 +96,9 @@
 ## 🌱 Currently Learning
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-90%25-blue?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-85%25-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20&%20ML-70%25-orange?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20&%20ML-orange?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
