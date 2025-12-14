@@ -6,8 +6,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gyane-git" alt="gyane-git" /></a> </p>
 
 - 🔭 I’m currently working on [Garg dental eCom](dentalnepal.com)
-
+  
 - 🌱 I’m currently learning **Flutter**
+
+- 🌱 I’m currently learning **NextJs**
 
 - 👯 I’m looking to collaborate on **HRMS**
 
