@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0e75b6&center=true&width=500&lines=Flutter+Developer;Next.js+Developer;Python+Programmer;ML|Dev+Ops" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0e75b6&center=true&width=500&lines=Next.js+Developer;Python+Programmer;ML|Dev+Ops;Flutter+Developer" alt="Typing SVG"/>
 </p>
 
 
@@ -81,6 +81,12 @@
     <img src="https://img.shields.io/badge/Garg%20Dental-eCom-blue?style=for-the-badge&logo=shopify" />
   </a>
   <a href="https://gyanendrasah.com.np" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=netlify" />
+  </a>
+  <a href="https://dellnepal.com" target="_blank">
+    <img src="https://img.shields.io/badge/Garg%20Dental-eCom-blue?style=for-the-badge&logo=shopify" />
+  </a>
+  <a href="https://deepmasala.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=netlify" />
   </a>
 </p>
