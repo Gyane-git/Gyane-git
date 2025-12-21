@@ -69,8 +69,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=gyane-git&theme=react-dark&area=true" />
+  <img src="https://streak-stats.demolab.com?user=gyane-git&theme=radical&hide_border=true"/>
 </p>
+
 
 ---
 
