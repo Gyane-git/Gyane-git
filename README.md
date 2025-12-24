@@ -113,9 +113,11 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gyane-git&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0e75b6&icon_color=0e75b6" alt="GitHub Stats"/>
- <img width="48%" src="https://github-readme-streak-stats.vercel.app/?user=gyane-git&theme=tokyonight&hide_border=true&background=0D1117&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" alt="GitHub Streak"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gyane-git&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0e75b6&icon_color=0e75b6&cache_seconds=1800" />
 
+  <img width="48%" src="https://github-readme-streak-stats.vercel.app/?user=gyane-git&theme=tokyonight&hide_border=true&background=0D1117&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" />
+
+ 
 </p>
 
 <p align="center">
@@ -124,7 +126,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gyane-git&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=gyane-git&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
+
 </p>
 
 <div align="center">
