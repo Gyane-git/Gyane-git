@@ -114,7 +114,8 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gyane-git&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0e75b6&icon_color=0e75b6" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gyane-git&theme=tokyonight&hide_border=true&background=0D1117&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" alt="GitHub Streak"/>
+ <img width="48%" src="https://github-readme-streak-stats.vercel.app/?user=gyane-git&theme=tokyonight&hide_border=true&background=0D1117&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" alt="GitHub Streak"/>
+
 </p>
 
 <p align="center">
