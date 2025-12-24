@@ -113,11 +113,34 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gyane-git&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0e75b6&icon_color=0e75b6&cache_seconds=1800" />
+  <img width="48%" 
+       src="https://github-readme-stats.vercel.app/api?username=gyane-git&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0e75b6&icon_color=0e75b6" />
 
-  <img width="48%" src="https://github-readme-streak-stats.vercel.app/?user=gyane-git&theme=tokyonight&hide_border=true&background=0D1117&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" />
+  <img width="48%" 
+       src="https://github-readme-streak-stats.vercel.app?user=gyane-git&theme=tokyonight&hide_border=true&background=0D1117&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" />
+</p>
 
- 
+<p align="center">
+  <img width="48%" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyane-git&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0e75b6" />
+
+  <img width="48%" 
+       src="https://github-readme-activity-graph.vercel.app/graph?username=gyane-git&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0e75b6&line=0e75b6&point=ffffff" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies (FIXED)
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=gyane-git&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff" />
 </p>
 
 <p align="center">
