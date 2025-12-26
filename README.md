@@ -117,8 +117,8 @@
 
 
 
-  <img width="48%" 
-       src="https://github-readme-streak-stats.vercel.app?user=gyane-git&theme=tokyonight&hide_border=true&background=0D1117&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" />
+  <img src="https://streak-stats.demolab.com/?user=gyane-git&theme=tokyonight" />
+
 </p>
 
 <p align="center">
