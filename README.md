@@ -113,8 +113,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" 
-       src="https://github-readme-stats.vercel.app/api?username=gyane-git&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0e75b6&icon_color=0e75b6" />
+  <img width="48%"
+src="https://github-readme-stats.vercel.app/api?username=gyane-git&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
+
 
   <img width="48%" 
        src="https://github-readme-streak-stats.vercel.app?user=gyane-git&theme=tokyonight&hide_border=true&background=0D1117&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" />
