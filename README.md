@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=2000&color=0e75b6&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Gyanendra+Sah;Full+Stack+Developer+from+Nepal;Next.js+%7C+Laravel+%7C+Django;HRMS+System+Developer;DevOps+%26+Cloud+Engineer" />
 </p>
 
-<p align="center">
+<p align="center">   
   <img src="https://komarev.com/ghpvc/?username=gyane-git&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
   <img src="https://img.shields.io/github/followers/gyane-git?label=Followers&style=for-the-badge&color=0e75b6&labelColor=0D1117"/>
 </p>
